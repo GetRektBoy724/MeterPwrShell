@@ -13,8 +13,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Internet Connection
 # Installation
 ```
-apt update
-apt install wget
+apt update && apt install wget
 mkdir MeterPwrShell
 cd MeterPwrShell && wget
 chmod +x meterpwrshellexec
