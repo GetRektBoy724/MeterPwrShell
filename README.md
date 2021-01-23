@@ -16,7 +16,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 ```
 apt update && apt install wget
 mkdir MeterPwrShell
-cd MeterPwrShell && wget https://github.com/GetRektBoy724/MeterPwrShell/releases/download/v1.0.0/meterpwrshellexec
+cd MeterPwrShell && wget https://github.com/GetRektBoy724/MeterPwrShell/releases/download/v1.1.0/meterpwrshellexec
 chmod +x meterpwrshellexec
 ```
 # Usage
