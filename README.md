@@ -9,7 +9,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Great CLI
 - A Lot More (Try it by yourself)
 # Requirements
-- Kali Linux,Ubuntu,Or Debian (If you dont use on of those,the script will not work!!!)
+- Kali Linux,Ubuntu,Or Debian (If you dont use on of those,the tool will not work!!!)
 - Metasploit Framework
 - Internet Connection
 # Installation
