@@ -10,8 +10,15 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Great CLI
 - A Lot More (Try it by yourself)
 --------------------------------------------------------------
-## All payload features is tested on Windows 10 v20H2
+### All payload features is tested on Windows 10 v20H2
 --------------------------------------------------------------
+## Advantages Of MeterPwrShell Compared To The web_delivery Module From Metasploit Framework
+- Shorter stager (Or short one-liner in this case)
+- Shorter payload stage
+- Various AMSI bypass technique and code
+- Faster payload loading
+- Dont need to setup a server for the stager 
+- Support Ngrok built-in (so the victim doesnt need to be on the same local network)
 # Requirements
 - Kali Linux,Ubuntu,Or Debian (If you dont use on of those,the tool will not work!!!)
 - Metasploit Framework
@@ -44,3 +51,4 @@ chmod +x meterpwrshellexec
  - Idk i have run out of idea lmao
  # Demonstration
  Coming Soon :D
+
