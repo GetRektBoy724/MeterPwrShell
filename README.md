@@ -51,4 +51,6 @@ chmod +x meterpwrshellexec
  - Idk i have run out of idea lmao
  # Demonstration
  Coming Soon :D
+ # Next Improvements
+ - Bypass UAC
 
