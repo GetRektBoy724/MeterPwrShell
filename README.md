@@ -4,7 +4,7 @@ Automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter S
 This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metasploit-framework),[Xencrypt](https://github.com/the-xentropy/xencrypt),and [amsi.fail](https://amsi.fail)
 # NEVER GODDANG UPLOAD TO VIRUSTOTAL!!!
 # Features (v1.2.0)
-- Full undetectable payload.Even if the payload detected,the AV can't do anything cause the payload has been automaticly migrated to another process.
+- Full undetectable payload.Even if the payload detected,the AV can't do anything cause the payload has been automaticly migrated to another process.(i should've change this to "Full Unkillable payload")
 - Bypasses AMSI Successfully (if you choose amsibypasscode technique with shortened payload)
 - Short One-Liner (if you choose amsibypasscode technique with shortened payload)
 - Bypass Firewall (If you pick an unstaged payload)
