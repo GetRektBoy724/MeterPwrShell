@@ -2,7 +2,7 @@
 Automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,And FUD
 
 This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metasploit-framework),[Xencrypt](https://github.com/the-xentropy/xencrypt),and [amsi.fail](https://amsi.fail)
-# NEVER GODDANG UPLOAD TO VIRUSTOTAL!!! USe VirScan or MetaDefender instead
+# NEVER GODDANG UPLOAD TO VIRUSTOTAL!!! Use VirScan or MetaDefender instead
 # Features (v1.2.0)
 - Full undetectable payload.Even if the payload detected,the AV can't do anything cause the payload has been automaticly migrated to another process.(i should've change this to "Full Unkillable payload")
 - Bypasses AMSI Successfully (if you choose amsibypasscode technique with shortened payload)
