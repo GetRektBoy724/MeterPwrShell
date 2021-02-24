@@ -51,8 +51,6 @@ chmod +x meterpwrshellexec
  - Extreme Way : Type it in by yourself
  - Any exploit/vulns that let you execute command to victim
  - Idk i have run out of idea lmao
- # Demonstration
- Coming Soon :D
  # Next Improvements
  - [x] Bypass UAC
  - [ ] Bypass/Disable Tamper Protection
