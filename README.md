@@ -52,6 +52,7 @@ chmod +x meterpwrshellexec
  - Any exploit/vulns that let you execute command to victim
  - Idk i have run out of idea lmao
  # Next Improvements
+ These next improvements will be added to v1.3.0
  - [x] Bypass UAC
  - [ ] Bypass/Disable Tamper Protection
 
