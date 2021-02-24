@@ -54,5 +54,6 @@ chmod +x meterpwrshellexec
  # Demonstration
  Coming Soon :D
  # Next Improvements
- - Bypass UAC
+ - [x] Bypass UAC
+ - [ ] Bypass/Disable Tamper Protection
 
