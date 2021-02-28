@@ -54,5 +54,5 @@ chmod +x meterpwrshellexec
  # Next Improvements
  These next improvements will be added to v1.3.0
  - [x] Bypass UAC
- - [ ] Bypass/Disable Tamper Protection
+ - [z] Bypass/Disable Tamper Protection
 
