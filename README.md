@@ -54,4 +54,4 @@ chmod +x meterpwrshellexec
  # Next Improvements
  These next improvements will be added to v1.3.0
  - [x] Bypass UAC
- - [ ] Implementing New Codes
+ - [ ] Automatic Persistence
