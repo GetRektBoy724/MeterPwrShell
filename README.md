@@ -23,7 +23,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 # Requirements
 - Kali Linux,Ubuntu,Or Debian (If you dont use on of those,the tool will not work!!!)
 - Metasploit Framework
-- Internet Connection
+- Internet Connection (Both On Victim And Attacker Computer)
 # Installation
 ```
 apt update && apt install wget
