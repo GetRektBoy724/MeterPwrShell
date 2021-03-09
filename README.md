@@ -54,7 +54,7 @@ chmod +x meterpwrshellexec
  # To-do List
  These next improvements will be added to v1.3.0
  - [x] Bypass UAC
- - [ ] Built-in GetSYSTEM
+ - [x] Built-in GetSYSTEM
  - [x] Disable All Firewall Profile
  - [ ] Bypass/Disable Tamper Protection
  - [ ] Implementation On Main Code
