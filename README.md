@@ -43,7 +43,7 @@ chmod +x meterpwrshellexec
  disableinternetdetector : Well,Its kinda self-explanatory tho                                                                                                        
  disablealldetector : Disable all detector except Linux distribution detector
  ```
- You also can use MeterPwrShell Without Any Flags/Arguments
+ You also can use MeterPwrShell Without Any Flags And Arguments
  # Attack Vectors
  - BadUSBs
  - Malicious Shortcuts ([lnk2pwn](https://github.com/it-gorillaz/lnk2pwn/))
