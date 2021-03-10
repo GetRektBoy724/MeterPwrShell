@@ -56,5 +56,7 @@ chmod +x meterpwrshellexec
  - [x] Bypass UAC
  - [x] Built-in GetSYSTEM
  - [x] Disable All Firewall Profile
+ - [x] Fully Bypass Windows Defender Real-time Protection 
+ - [x] Disable Windows Defender Security Features
  - [ ] Bypass/Disable Tamper Protection
  - [ ] Implementation On Main Code
