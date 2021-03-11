@@ -14,13 +14,12 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Disable All Firewall Profile (if u use the Bypass UAC option)
 - Fully Bypass Windows Defender Real-time Protection (if u use the Bypass UAC option)
 - Disable Windows Defender Security Features (if u use the Bypass UAC option)
-- Fully undetectable and unkillable payload (if u use the Bypass UAC option)
+- Fully undetectable and unkillable payload (If u use shortened payload)
 - Bypasses AMSI Successfully (if you choose amsibypasscode technique with shortened payload)
 - Short One-Liner (if you choose amsibypasscode technique with shortened payload)
 - Bypass Firewall (If you pick an unstaged payload)
 - Great CLI
 - A Lot More (Try it by yourself)
-- 
 --------------------------------------------------------------
 ### All payload features is tested on Windows 10 v20H2
 --------------------------------------------------------------
