@@ -14,7 +14,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Disable All Firewall Profile (if u use the Bypass UAC option)
 - Fully Bypass Windows Defender Real-time Protection (if u use the Bypass UAC option)
 - Disable Windows Defender Security Features (if u use the Bypass UAC option)
-- Fully undetectable and unkillable payload (if you choose amsibypasscode technique with shortened payload)
+- Fully undetectable and unkillable payload (if you choose amsibypasscode technique with shortened payload or using Bypass UAC or both)
 - Bypasses AMSI Successfully (if you choose amsibypasscode technique with shortened payload)
 - Short One-Liner (if you choose amsibypasscode technique with shortened payload)
 - Bypass Firewall (If you pick an unstaged payload)
