@@ -58,6 +58,7 @@ chmod +x meterpwrshellexec
  - BadUSBs
  - Malicious Shortcuts ([lnk2pwn](https://github.com/it-gorillaz/lnk2pwn/))
  - Document Macro Payload
+ - MS DDE Exploit
  - Extreme Way : Type it in by yourself
  - Any exploit/vulns that let you execute command to victim
  - Idk i have run out of idea lmao
