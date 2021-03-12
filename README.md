@@ -38,7 +38,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 ```
 apt update && apt install wget
 mkdir MeterPwrShell
-cd MeterPwrShell && wget https://github.com/GetRektBoy724/MeterPwrShell/releases/download/v1.2.0/meterpwrshellexec
+cd MeterPwrShell && wget https://github.com/GetRektBoy724/MeterPwrShell/releases/download/v1.3.0/meterpwrshellexec
 chmod +x meterpwrshellexec
 ```
 # Usage
@@ -62,11 +62,4 @@ chmod +x meterpwrshellexec
  - Any exploit/vulns that let you execute command to victim
  - Idk i have run out of idea lmao
  # To-do List
- These next improvements will be added to v1.3.0
- - [x] Bypass UAC
- - [x] Built-in GetSYSTEM
- - [x] Disable All Firewall Profile
- - [x] Fully Bypass Windows Defender Real-time Protection 
- - [x] Disable Windows Defender Security Features
- - [ ] Bypass/Disable Tamper Protection
- - [ ] Implementation On Main Code
+-
