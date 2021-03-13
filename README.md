@@ -25,9 +25,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 --------------------------------------------------------------
 ## Advantages Of MeterPwrShell Compared To The web_delivery Module From Metasploit Framework
 - Shorter stager (Or short one-liner in this case)
-- Shorter payload stage
 - Various AMSI bypass technique and code
-- Faster payload loading
 - Dont need to setup a server for the stager 
 - Support Ngrok built-in (so the victim doesnt need to be on the same local network)
 # Requirements
