@@ -28,6 +28,8 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Various AMSI bypass technique and code
 - Dont need to setup a server for the stager 
 - Support Ngrok built-in (so the victim doesnt need to be on the same local network)
+- Automatic Built-in Privesc
+- Easily Bypass Windows Defender 
 # Requirements
 - Kali Linux,Ubuntu,Or Debian (If you dont use on of those,the tool will not work!!!)
 - Metasploit Framework
