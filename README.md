@@ -66,5 +66,4 @@ chmod +x meterpwrshellexec
  - Idk i have run out of idea lmao
  # To-do List
 This next improvement will be implemented at v1.4.0
-- Built-in Process Migration (well if you dont know how Metasploit's process migration works,it injects the payload to other process and kill the first session,but it will be invisible on the UI.So i want to replicate that)
-- Handle and ignore `SIGKILL` and `SIGTERM` signal on the powershell
+- [ ] Built-in Process Migration (well if you dont know how Metasploit's process migration works,it injects the payload to other process and kill the first session,but it will be invisible on the UI.So i want to replicate that)
