@@ -32,6 +32,12 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Support Ngrok built-in (so the victim doesnt need to be on the same local network)
 - Automatic Built-in Privesc
 - Easily Bypass Windows Defender 
+# Thanks to
+- Every single of my Discord Friends
+- @FuzzySec for that awesome Masquerade PEB script
+- @decoder-it for that amazing PPID Spoofing script
+- Me for not dying when creating this tool
+- and the last one is Emeric Nasi for the research on bypassing AV dynamics
 # Requirements
 - Kali Linux,Ubuntu,Or Debian (If you dont use on of those,the tool will not work!!!)
 - Metasploit Framework
