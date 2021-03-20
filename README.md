@@ -72,4 +72,7 @@ chmod +x meterpwrshellexec
  - Any exploit/vulns that let you execute command to victim
  - Idk i have run out of idea lmao
  # To-do List
-
+ # Available features options 
+ - Bypass AMSI (methods : amsibypasscode / encryption)
+ - Shortened Payload AKA IEX WebRequest method (If you use Bypass AMSI Feature with amsibypasscode feature)
+ - Bypass UAC (If you use Shortened Payload AKA IEX WebRequest method)
