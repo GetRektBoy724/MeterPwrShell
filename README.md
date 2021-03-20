@@ -12,6 +12,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - If you have some issue with the program,try redownloading it again (trust me),cause sometimes i edit the release and fix it without telling 😂
 # Features (v1.3.0)
 - Bypass UAC
+- Automatic Migrate (using PrependMigrate)
 - Built-in GetSYSTEM (if u use the Bypass UAC option)
 - Disable All Firewall Profile (if u use the Bypass UAC option)
 - Fully Bypass Windows Defender Real-time Protection (if you choose amsibypasscode technique with shortened payload or using Bypass UAC or both)
