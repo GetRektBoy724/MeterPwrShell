@@ -38,6 +38,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - @FuzzySec for that awesome Masquerade PEB script
 - @decoder-it for that amazing PPID Spoofing script
 - Me for not dying when creating this tool
+- Ed Wilson AKA Microsoft Scripting Guy for the great Powershell scripting tutorials
 - and the last one is Emeric Nasi for the [research on bypassing AV dynamics](https://blog.sevagas.com/IMG/pdf/BypassAVDynamics.pdf)
 # Requirements
 - Kali Linux,Ubuntu,Or Debian (If you dont use on of those,the tool will not work!!!)
