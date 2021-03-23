@@ -74,5 +74,5 @@ chmod +x meterpwrshellexec
  # To-do List
  # Available features options 
  - Bypass AMSI (methods : amsibypasscode / encryption)
- - Shortened Payload AKA IEX WebRequest method (If you use Bypass AMSI Feature with amsibypasscode feature)
+ - Shortened Payload AKA IEX WebClient method (If you use Bypass AMSI Feature with amsibypasscode feature)
  - Bypass UAC (If you use Shortened Payload AKA IEX WebRequest method)
