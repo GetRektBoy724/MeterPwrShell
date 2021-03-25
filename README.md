@@ -1,5 +1,5 @@
 # MeterPwrShell
-Automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,And FUD
+Automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,Bypass UAC,And Bypass Any AVs.
 
 This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metasploit-framework),[Xencrypt](https://github.com/the-xentropy/xencrypt),and [amsi.fail](https://amsi.fail)
 # Important Note
