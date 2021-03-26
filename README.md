@@ -35,6 +35,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Easily Bypass Windows Defender 
 # Thanks to
 - Every single of my Discord Friends
+- Special Thx to theia#8536
 - @FuzzySec for that awesome Masquerade PEB script
 - @decoder-it for that amazing PPID Spoofing script
 - Me for not dying when creating this tool
