@@ -23,11 +23,11 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Automatic Migrate (using PrependMigrate)
 - Built-in GetSYSTEM (if u use the Bypass UAC option)
 - Disable All Firewall Profile (if u use the Bypass UAC option)
-- Fully Bypass Windows Defender Real-time Protection (if you choose amsibypasscode technique with shortened payload or using Bypass UAC or both)
+- Fully Bypass Windows Defender Real-time Protection (if you choose shortened payload or using Bypass UAC or both)
 - Disable Windows Defender Security Features (if u use the Bypass UAC option)
 - Fully unkillable payload 
-- Bypasses AMSI Successfully (if you choose amsibypasscode technique with shortened payload)
-- Short One-Liner (if you choose amsibypasscode technique with shortened payload)
+- Bypasses AMSI Successfully (if you choose shortened payload)
+- Short One-Liner (if you choose shortened payload)
 - Bypass Firewall (If you pick an unstaged payload)
 - Great CLI
 - A Lot More (Try it by yourself)
