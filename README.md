@@ -19,6 +19,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - If you have some issue with the program,try redownloading it again (trust me),cause sometimes i edit the release and fix it without telling 😂
 - If you want to know how tf my payload bypass any AVs,you can check on [this](https://gist.github.com/GetRektBoy724/9383c9580cb1c9935fc04cc7eb7ef004) and [this](https://blog.sevagas.com/Bypass-Antivirus-Dynamic-Analysis)
 - Dont even try to fork this repository,you'll dont get the releases!
+- From version v1.6.0,the raw source code is published on the repo.
 # Features (v1.5.1)
 - Bypass UAC
 - Automatic Migrate (using PrependMigrate)
