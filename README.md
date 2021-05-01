@@ -1,4 +1,4 @@
-## Anyone who wants to be beta tester for MeterPwrShell v2? Contact me through Discord,see Notes sections
+## Anyone who wants to be beta tester for MeterPwrShell v2? Contact me through Discord DeadSec#4077
 ```
    _____          __              __________                _________.__           .__  .__   
   /     \   _____/  |_  __________\______   \_  _  ________/   _____/|  |__   ____ |  | |  |  
