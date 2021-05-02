@@ -1,12 +1,12 @@
 ```
-   _____          __              __________                _________.__           .__  .__   
-  /     \   _____/  |_  __________\______   \_  _  ________/   _____/|  |__   ____ |  | |  |  
- /  \ /  \_/ __ \   __\/ __ \_  __ \     ___| \/ \/ |_  __ \_____  \ |  |  \_/ __ \|  | |  |  
-/    Y    \  ___/|  | \  ___/|  | \/    |    \     / |  | \/        \|   Y  \  ___/|  |_|  |__
-\____|__  /\___  >__|  \___  >__|  |____|     \/\_/  |__| /_______  /|___|  /\___  >____/____/
-        \/     \/          \/                                     \/      \/     \/           
+   _____          __              __________                _________.__           .__  .__  ________  
+  /     \   _____/  |_  __________\______   \_  _  ________/   _____/|  |__   ____ |  | |  | \_____  \ 
+ /  \ /  \_/ __ \   __\/ __ \_  __ \     ___| \/ \/ |_  __ \_____  \ |  |  \_/ __ \|  | |  |  /  ____/ 
+/    Y    \  ___/|  | \  ___/|  | \/    |    \     / |  | \/        \|   Y  \  ___/|  |_|  |_/       \ 
+\____|__  /\___  >__|  \___  >__|  |____|     \/\_/  |__| /_______  /|___|  /\___  >____/____|_______ \
+        \/     \/          \/                                     \/      \/     \/                  \/   
 ```
-# MeterPwrShell
+# MeterPwrShell2
 Automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,Bypass UAC,And Bypass Any AVs.
 
 This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metasploit-framework) and [amsi.fail](https://amsi.fail)
@@ -20,16 +20,15 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - If you want to know how tf my payload bypass any AVs,you can check on [this](https://gist.github.com/GetRektBoy724/9383c9580cb1c9935fc04cc7eb7ef004) and [this](https://blog.sevagas.com/Bypass-Antivirus-Dynamic-Analysis)
 - Dont even try to fork this repository,you'll dont get the releases!
 - For everyone who has issue or want to contact me,pls use Discord. My Discord ID is : DeadSec#4077
-# Features (v1.5.1)
-- Bypass UAC
+# Features (v2.0.0)
 - Automatic Migrate (using PrependMigrate)
-- Built-in GetSYSTEM (if u use the Bypass UAC option)
-- Disable All Firewall Profile (if u use the Bypass UAC option)
-- Fully Bypass Windows Defender Real-time Protection (if you choose shortened payload or using Bypass UAC or both)
-- Disable Windows Defender Security Features (if u use the Bypass UAC option)
-- Fully unkillable payload 
-- Bypasses AMSI Successfully (if you choose shortened payload)
-- Short One-Liner (if you choose shortened payload)
+- AutoGetSYSTEM (Automaticly escalates privilege from normal user to SYSTEM)
+- Disable All Firewall Profile (If you use AutoGetSYSTEM feature)
+- Fully Bypass Windows Defender Real-time Protection
+- Disable Windows Defender Security Features (If you use AutoGetSYSTEM feature)
+- Fully unkillable payload (If you use Automatic Migrate feature)
+- Bypasses AMSI Successfully 
+- Short One-Liner 
 - Bypass Firewall (If you pick an unstaged payload)
 - Great CLI
 - A Lot More (Try it by yourself)
@@ -38,7 +37,6 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 --------------------------------------------------------------
 ## Advantages Of MeterPwrShell Compared To The web_delivery Module From Metasploit Framework
 - Shorter stager (Or short one-liner in this case)
-- Various AMSI bypass technique and code
 - Dont need to setup a server for the stager 
 - Support Ngrok built-in (so the victim doesnt need to be on the same local network)
 - Automatic Built-in Privesc
@@ -56,23 +54,15 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Metasploit Framework
 - Internet Connection (Both On Victim And Attacker Computer)
 # Installation
-```
-apt update && apt install wget
-mkdir MeterPwrShell
-cd MeterPwrShell && wget https://github.com/GetRektBoy724/MeterPwrShell/releases/download/v1.5.1/meterpwrshellexec
-chmod +x meterpwrshellexec
-```
+just fucking download your binary on Release page and please choose your binary according to your OS
 # Usage
 ```
-# ./meterpwrshellexec -c help
- Available arguments : help, version, showbanner, showlastdebuglog, disablerootdetector, disableinternetdetector, disablealldetector                                  
+# ./MeterPwrShell2Kalix64 -c help
+ Available arguments : help, version, showbanner, showlastdebuglog                                
  help : Show this page                                                                                                                                                
  version : Show MeterPwrShell's version                                                                                                                               
  showbanner : Show MeterPwrShell's Banner                                                                                                                             
  showlastdebuglog : Well,Its kinda self-explanatory tho                                                                                                               
- disablerootdetector : Well,Its kinda self-explanatory tho                                                                                                            
- disableinternetdetector : Well,Its kinda self-explanatory tho                                                                                                        
- disablealldetector : Disable all detector except Linux distribution detector
  ```
  You also can use MeterPwrShell Without Any Flags And Arguments
  # Attack Vectors
@@ -84,7 +74,3 @@ chmod +x meterpwrshellexec
  - Any exploit/vulns that let you execute command to victim
  - Idk i have run out of idea lmao
  # To-do List
- # Available features options 
- - Bypass AMSI 
- - Shortened Payload AKA IEX WebClient method (If you use Bypass AMSI Feature)
- - Bypass UAC (If you use Shortened Payload AKA IEX WebClient method)
