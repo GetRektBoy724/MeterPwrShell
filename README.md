@@ -20,6 +20,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - If you want to know how tf my payload bypass any AVs,you can check on [this](https://gist.github.com/GetRektBoy724/9383c9580cb1c9935fc04cc7eb7ef004) and [this](https://blog.sevagas.com/Bypass-Antivirus-Dynamic-Analysis)
 - Dont even try to fork this repository,you'll dont get the releases!
 - For everyone who has issue or want to contact me,pls use Discord. My Discord ID is : DeadSec#4077
+- This tool is not fully Open-Source (i guess),yes you can redistribute it as much as you want but you'll never get the source code of the tool (dont ask me why)
 # Features (v2.0.0)
 - Automatic Migrate (using PrependMigrate)
 - AutoGetSYSTEM (Automaticly escalates privilege from normal user to SYSTEM)
