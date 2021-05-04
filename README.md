@@ -56,7 +56,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Metasploit Framework
 - Internet Connection (Both On Victim And Attacker Computer)
 # Installation
-just fucking download your binary on Release page and please choose your binary according to your OS
+just fucking download your binary on Release page and please choose your binary according to your OS.
 i386 architecture not supported yet.
 # Usage
 ```
