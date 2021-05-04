@@ -1,4 +1,4 @@
-### Before MeterPwrShell v2.0.1 released,pls dont use the tool yet,the AutoGetSYSTEM Feature is kinda error (idk why but im still fixing it),im so sorry.
+### Before MeterPwrShell v2.0.1 released,pls dont use the tool yet,the AutoGetSYSTEM Feature is kinda error (idk why but im still fixing it),everything else is fine tho,im so sorry.
 ```
    _____          __              __________                _________.__           .__  .__  ________  
   /     \   _____/  |_  __________\______   \_  _  ________/   _____/|  |__   ____ |  | |  | \_____  \ 
@@ -57,6 +57,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Internet Connection (Both On Victim And Attacker Computer)
 # Installation
 just fucking download your binary on Release page and please choose your binary according to your OS
+i386 architecture not supported yet.
 # Usage
 ```
 # ./MeterPwrShell2Kalix64 -c help
