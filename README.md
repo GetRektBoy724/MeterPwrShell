@@ -55,6 +55,11 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Kali Linux,Ubuntu,Or Debian (If you dont use on of those,the tool will not work!!!)
 - Metasploit Framework
 - Internet Connection (Both On Victim And Attacker Computer)
+
+this tool is tested on :
+- Debian 10 buster
+- Kali Linux 2021.1 and 2020.3
+- Ubuntu 20.04 LTS 
 # Installation
 just fucking download your binary on Release page and please choose your binary according to your OS.
 i386 and all arm architecture is not supported yet.
