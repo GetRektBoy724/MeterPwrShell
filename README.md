@@ -57,7 +57,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - Internet Connection (Both On Victim And Attacker Computer)
 # Installation
 just fucking download your binary on Release page and please choose your binary according to your OS.
-i386 architecture not supported yet.
+i386 and all arm architecture is not supported yet.
 # Usage
 ```
 # ./MeterPwrShell2Kalix64 -c help
