@@ -70,7 +70,8 @@ i386 and all arm architecture is not supported yet.
  help : Show this page                                                                                                                                                
  version : Show MeterPwrShell's version                                                                                                                               
  showbanner : Show MeterPwrShell's Banner                                                                                                                             
- showlastdebuglog : Well,Its kinda self-explanatory tho                                                                                                               
+ showlastdebuglog : Well,Its kinda self-explanatory tho                                                 
+ noaptupdate : By default,MeterPwrShell run 'apt-get update' every single time it executed,and this argument disable it.
  ```
  You also can use MeterPwrShell Without Any Flags And Arguments
  # Attack Vectors
