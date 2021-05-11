@@ -73,12 +73,5 @@ i386 and all arm architecture is not supported yet.
  noaptupdate : By default,MeterPwrShell run 'apt-get update' every single time it executed,and this argument disable it.
  ```
  You also can use MeterPwrShell Without Any Flags And Arguments
- # Attack Vectors
- - BadUSBs
- - Malicious Shortcuts ([lnk2pwn](https://github.com/it-gorillaz/lnk2pwn/))
- - Document Macro Payload
- - MS DDE Exploit
- - Extreme Way : Type it in by yourself
- - Any exploit/vulns that let you execute command to victim
- - Idk i have run out of idea lmao
  # To-do List
+- fix AutoGetSYSTEM feature
