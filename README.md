@@ -8,7 +8,7 @@
         \/     \/          \/                                     \/      \/     \/                  \/   
 ```
 # MeterPwrShell2
-Automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,Bypass UAC,And Bypass Any AVs.
+Automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,Bypass UAC,And Bypass Windows Defender.
 
 This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metasploit-framework) and [OnlineAMSIFail](http://getrektboy.000webhostapp.com/OnlineAMSIFail/)
 # Notes
