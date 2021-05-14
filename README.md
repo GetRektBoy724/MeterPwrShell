@@ -75,3 +75,6 @@ i386 and all arm architecture is not supported yet.
  You also can use MeterPwrShell Without Any Flags And Arguments
  # To-do List
 - fix AutoGetSYSTEM feature
+- fix any single goddang false positive
+- implement applocker bypass
+- fix my lazyness
