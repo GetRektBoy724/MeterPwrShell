@@ -78,3 +78,4 @@ i386 and all arm architecture is not supported yet.
 - fix any single goddang false positive
 - implement applocker bypass
 - fix my lazyness
+- implement universal unhooker (dem bois this one is going to be hard,especially for Powershell attack vector)
