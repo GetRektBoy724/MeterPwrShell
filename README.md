@@ -1,4 +1,4 @@
-### Before MeterPwrShell v2.0.1 released,pls dont use the AutoGetSYSTEM Feature yet,the AutoGetSYSTEM Feature is getting detected by WD,everything else is fine tho,im so sorry for your inconvenience.
+### Please dont use the AutoGetSYSTEM Feature yet,the AutoGetSYSTEM Feature is getting detected by WD,everything else is fine tho,im so sorry for your inconvenience.
 ```
    _____          __              __________                _________.__           .__  .__  ________  
   /     \   _____/  |_  __________\______   \_  _  ________/   _____/|  |__   ____ |  | |  | \_____  \ 
