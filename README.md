@@ -20,7 +20,7 @@ This tool is powered by [Metasploit-Framework](https://github.com/rapid7/metaspl
 - If you have some feature recommendation,post that on Issue
 - If you have some issue with the program,try redownloading it again (trust me),cause sometimes i edit the release and fix it without telling 😂
 - Dont even try to fork this repository,you'll dont get the releases!
-- For everyone who has issue or want to contact me,pls use Discord. My Discord ID is : GetRektBoy724#4077
+- For everyone who has issue or want to contact me,pls use Discord. My Discord ID is : GetRektBoy724#1337
 - This tool is not fully Open-Source (i guess),yes you can redistribute it as much as you want but you'll never get the source code of the tool (dont ask me why)
 # Features (v2.0.0)
 - Automatic Migrate (using PrependMigrate)
