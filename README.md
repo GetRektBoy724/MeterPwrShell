@@ -1,4 +1,4 @@
-### Please dont use the AutoGetSYSTEM Feature yet,the AutoGetSYSTEM Feature is getting detected by WD,everything else is fine tho,im so sorry for your inconvenience.And for everyone that still having issue,pls be patient,cause im still focusing on something else.
+# Inactive Tool - Reason : busy with something else
 ```
    _____          __              __________                _________.__           .__  .__  ________  
   /     \   _____/  |_  __________\______   \_  _  ________/   _____/|  |__   ____ |  | |  | \_____  \ 
